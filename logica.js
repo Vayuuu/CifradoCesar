@@ -1,7 +1,7 @@
 window.addEventListener("load",inicio,true);
 function inicio(){
     document.getElementById("cadena").addEventListener("keyup", function(){
-        this.value = this.value.toUpperCase();
+        this.value = this.value.toLowerCase();
     }, true);
     document.getElementById("cifrar").addEventListener("click",function(){  
         var texto = document.getElementById("cadena").value;
