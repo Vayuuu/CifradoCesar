@@ -1,0 +1,32 @@
+body {
+      color: black; 
+      font-family: Arial, Helvetica, sans-serif;
+      background-size: cover;
+  }
+  h3, {
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    color: black;
+ } 
+ p, input {
+    font-family: "Arial", sans-serif;
+    text-align: center;
+    color: white;
+  }
+  
+  input {
+    font-family: "Digital", sans-serif;
+    font-size: 1em;
+    padding: 5px;
+  }
+
+button{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+    background-color: #A1FFEA;
+    border-radius: 6px;
+    border: 1px solid #000000;
+ }
