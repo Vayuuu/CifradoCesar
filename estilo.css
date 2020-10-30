@@ -1,18 +1,15 @@
 body {
       background-image: url("https://www.canalapps.com/wp-content/uploads/2020/08/fondos-de-pantalla-canalapps.jpg.webp");
-      color: black; 
       font-family: Arial, Helvetica, sans-serif;
       background-size: cover;
   }
   h3, {
     font-family: "Arial", sans-serif;
     text-align: center;
-    color: black;
  } 
  p, input {
     font-family: "Arial", sans-serif;
     text-align: center;
-    color: black;
   }
   
   input {
